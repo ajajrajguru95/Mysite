@@ -1,0 +1,5 @@
+publishDir = "docs"
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "test"
+theme = "Mysite"

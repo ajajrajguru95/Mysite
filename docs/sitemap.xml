@@ -3,32 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2017-09-25T19:43:27+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/account/</loc>
-    <lastmod>2017-09-25T19:43:27+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/account/login-password/</loc>
-    <lastmod>2017-09-25T19:40:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/account/login/</loc>
-    <lastmod>2017-09-25T19:40:59+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
     <priority>0</priority>
   </url>
   
